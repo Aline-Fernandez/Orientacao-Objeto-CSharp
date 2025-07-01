@@ -5,8 +5,7 @@ namespace conversor_dolar
 {
     internal class Program
     {
-        static void Main(string[] args)
-        {
+        static void Main(string[] args) {
             Console.Write("Quantos dólares você vai comprar? ");            
             double dolar = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
