@@ -1,5 +1,5 @@
 ﻿using System.Globalization;
-using conversos_de_moeda;
+using conversor_de_moeda;
 
 namespace conversor_dolar
 {

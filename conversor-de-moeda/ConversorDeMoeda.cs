@@ -1,6 +1,6 @@
 ﻿
 
-namespace conversos_de_moeda {
+namespace conversor_de_moeda {
     internal class ConversorDeMoeda {
         public static double Cota = 3.10;
 
